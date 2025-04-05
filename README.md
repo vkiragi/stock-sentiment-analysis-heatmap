@@ -2,8 +2,6 @@
 
 A real-time web app that displays sentiment scores and price movement for selected stocks using news data from Finnhub API and NLP sentiment analysis.
 
-![Stock Sentiment Heatmap Demo](https://via.placeholder.com/800x400?text=Stock+Sentiment+Heatmap+Demo)
-
 ## 🌟 Features
 
 - **Real-time Market Data**: Fetch stock quotes and company profiles via Finnhub API
